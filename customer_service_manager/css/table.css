@@ -1,0 +1,14 @@
+table, td, th {
+    border: 5px solid #171819;
+    background-color: aliceblue;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  th {
+    height: 50px;
+  }
